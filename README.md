@@ -1,5 +1,5 @@
 
-  <h2 align="center">Wren - Personal Blog Website</h2>
+  <h2 align="center">Personal Blog Website</h2>
 
   Wren is a fully responsive personal blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
